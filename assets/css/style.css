@@ -245,16 +245,16 @@ h6 {
 }
 
 #hero .hero-container {
-  position: relative;
+  position: absolute;
   z-index: 2;
   min-width: 300px;
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
+  margin: 0 0 0 0;
   font-size: 64px;
   font-weight: 700;
-  line-height: 56px;
+  line-height: 70px;
   color: #fff;
 }
 
